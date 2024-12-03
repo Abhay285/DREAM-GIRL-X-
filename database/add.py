@@ -1,4 +1,5 @@
-
+# with Love @LazyDeveloperr 💘
+# Subscribe YT @LazyDeveloperr - to learn more about this for free...
 
 from database.users_chats_db import db
 from pyrogram import Client
@@ -13,5 +14,4 @@ async def add_user_to_database(bot: Client, cmd: Message):
         print("user already in db")
 
         
-
 
