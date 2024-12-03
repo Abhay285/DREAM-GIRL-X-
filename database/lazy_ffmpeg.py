@@ -183,4 +183,3 @@ async def generate_screen_shots(
         return images
     else:
         return None
-
