@@ -50,4 +50,3 @@ async def handle_force_subscribe(bot, message):
         )
         return 400
 
-
